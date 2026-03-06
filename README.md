@@ -1,0 +1,1 @@
+# mcp_plugin_cursor
