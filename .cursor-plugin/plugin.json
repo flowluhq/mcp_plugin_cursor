@@ -1,0 +1,12 @@
+{
+  "name": "Flowlu",
+  "description": "Connect AI agents to your work management platform — tasks, CRM, projects, and deals. Project management and work flows built to work together.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Flowlu",
+    "url": "https://www.flowlu.com/"
+  },
+  "homepage": "https://www.flowlu.com/",
+  "keywords": ["flowlu", "productivity", "mcp", "tasks", "crm", "project-management", "work-management"],
+  "logo": "assets/logo.svg"
+}

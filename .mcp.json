@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "flowlu": {
+      "type": "http",
+      "url": "https://mcp.flowlu.com/mcp",
+      "headers": {
+        "x-account-code": "<YOUR_COMPANY>",
+        "Authorization": "Bearer <API_TOKEN_FROM_PORTAL>"
+      }
+    }
+  }
+}
